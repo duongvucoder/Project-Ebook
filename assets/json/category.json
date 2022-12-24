@@ -1,0 +1,64 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "category": "Tình Cảm Lãng Mạn",
+            "url": "assets/category/tinhcamlangman.jpeg"
+        },
+        {
+            "id": 2,
+            "category": "Hồi Ký - Danh Nhân",
+            "url": "assets/category/hoikydanhnhan.jpeg"
+        },
+        {
+            "id": 3,
+            "category": "Lịch Sử - Chính Trị",
+            "url": "assets/category/lichsuchinhtri.jpeg"
+        },
+        {
+            "id": 4,
+            "category": "Văn Học Nước Ngoài",
+            "url": "assets/category/vanhocnuocngoai.jpeg"
+        },
+        {
+            "id": 5,
+            "category": "Kỹ Năng Mềm",
+            "url": "assets/category/kynangmem.jpeg"
+        },
+        {
+            "id": 6,
+            "category": "Trinh Thám - Kinh Dị",
+            "url": "assets/category/trinhthamkinhdi.jpeg"
+        },
+        {
+            "id": 7,
+            "category": "Nuôi Dạy Con",
+            "url": "assets/category/nuoidaycon.jpeg"
+        },
+        {
+            "id": 8,
+            "category": "Kinh Tế - Tài Chính",
+            "url": "assets/category/kinhtetaichinh.jpeg"
+        },
+        {
+            "id": 9,
+            "category": "Khoa Học - Viễn Tưởng",
+            "url": "assets/category/khoahocvientuong.jpeg"
+        },
+        {
+            "id": 10,
+            "category": "Tuổi Học Trò",
+            "url": "assets/category/tuoihoctro.jpeg"
+        },
+        {
+            "id": 11,
+            "category": "Tâm Lý Học",
+            "url": "assets/category/tamlyhoc.jpeg"
+        },
+        {
+            "id": 12,
+            "category": "Văn Hoá - Tôn Giáo",
+            "url": "assets/category/vanhoatongiao.jpeg"
+        }
+    ]
+}

@@ -54,20 +54,17 @@ class _BodySignupState extends State<BodySignup> {
                 controller: nameController,
                 keyboardType: TextInputType.text,
                 hintText: 'Tên',
-                onChanged: (value) {},
               ),
               RoundedInputField(
                 controller: phoneController,
                 hintText: 'Số điện thoại',
                 icon: Icons.contact_phone_sharp,
                 keyboardType: TextInputType.number,
-                onChanged: (value) {},
               ),
               RoundedInputField(
                 controller: emailController,
                 hintText: 'Email',
                 icon: Icons.mail_sharp,
-                onChanged: (value) {},
                 keyboardType: TextInputType.text,
               ),
               RoundedPassWordField(

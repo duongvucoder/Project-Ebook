@@ -98,7 +98,6 @@ class _BookDetailScreenState extends State<BookDetailScreen> {
             height: size.height * 0.2,
             width: size.width * 0.2,
             decoration: const BoxDecoration(
-              // color: Colors.yellow,
               shape: BoxShape.circle,
             ),
             child: GestureDetector(
@@ -121,7 +120,6 @@ class _BookDetailScreenState extends State<BookDetailScreen> {
             style: const TextStyle(
               fontSize: 16,
               fontWeight: FontWeight.bold,
-              // color: kPrimaryColor5,
             ),
           ),
         ),

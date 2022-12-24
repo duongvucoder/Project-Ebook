@@ -10,11 +10,10 @@ class FilterEbookService {
 
   Future<List<EBook>> getFitterEbook(String query) async {
     final file = await rootBundle.loadString(baseJson);
-    //print(file);
+
     final json = jsonDecode(file);
-    //print(json);
+
     List ebookData = json['data'];
-    // print(ebookdata);
 
     return List<EBook>.from(
         ebookData.map((e) => EBook.fromJson(e)).where((book) {

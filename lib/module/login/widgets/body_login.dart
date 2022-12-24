@@ -19,6 +19,8 @@ class BodyLogin extends StatefulWidget {
 }
 
 class _BodyLoginState extends State<BodyLogin> {
+  final TextEditingController _passwordController = TextEditingController();
+
   @override
   Widget build(BuildContext context) {
     Size size = MediaQuery.of(context).size;
@@ -47,7 +49,6 @@ class _BodyLoginState extends State<BodyLogin> {
               ),
               RoundedInputField(
                 hintText: 'Nhập tài khoản',
-                onChanged: ((value) {}),
               ),
               RoundedPassWordField(
                 onChanged: (value) {},
